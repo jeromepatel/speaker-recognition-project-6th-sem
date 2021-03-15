@@ -1,7 +1,7 @@
 # Speaker-recognition Research Paper Code
 This repo contains code for and related paper text for our research paper speaker-recognition.
 
-I am putting soem reference datasets to study:
+I am putting some reference datasets to study:
 
 https://keras.io/examples/audio/speaker_recognition_using_cnn/
 
