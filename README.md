@@ -8,3 +8,7 @@ https://keras.io/examples/audio/speaker_recognition_using_cnn/
 https://lionbridge.ai/datasets/best-speech-recognition-datasets-for-machine-learning/
 
 https://www.robots.ox.ac.uk/~vgg/data/voxceleb/
+
+
+**This seems promising:**
+https://github.com/kongkip/SpeakerRecognition
