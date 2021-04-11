@@ -11,5 +11,8 @@ https://lionbridge.ai/datasets/best-speech-recognition-datasets-for-machine-lear
 https://www.robots.ox.ac.uk/~vgg/data/voxceleb/
 
 
+**Pre-trained Models:**
+https://github.com/a-nagrani/VGGVox
+
 **This seems promising:**
 https://github.com/kongkip/SpeakerRecognition
