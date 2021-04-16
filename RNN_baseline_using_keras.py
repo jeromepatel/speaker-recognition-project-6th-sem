@@ -2,7 +2,7 @@
 """
 Created on Thu Apr 15 21:52:44 2021
 
-@author: jyotm
+@author: jyotm, kartikm, abhijeetk
 usage: python RNN_baseline_using_keras.py
 requirements: Tensorflow, Numpy, ffmpeg (on Linux)
 
@@ -18,6 +18,7 @@ from tensorflow import keras
 from pathlib import Path
 from IPython.display import display, Audio
 
+#code adapted from Keras example: https://keras.io/examples/audio/speaker_recognition_using_cnn/
 # Get the data from https://www.kaggle.com/kongaevans/speaker-recognition-dataset/download
 # and save it to the 'Downloads' folder in your HOME directory
 
@@ -53,7 +54,7 @@ SAMPLING_RATE = 16000
 SCALE = 0.5
 
 BATCH_SIZE = 128
-EPOCHS = 1
+EPOCHS = 10
 
 # Get the list of all noise files
 noise_paths = []
