@@ -3,7 +3,7 @@
 Created on Thu Apr 15 21:52:44 2021
 
 @author: jyotm, kartikm, abhijeetk
-usage: python RNN_baseline_using_keras.py
+usage: python Speake_recognition_keras.py
 requirements: Tensorflow, Numpy, ffmpeg (on Linux)
 
 """
@@ -18,7 +18,7 @@ from tensorflow import keras
 from pathlib import Path
 from IPython.display import display, Audio
 
-#code adapted from Keras example: https://keras.io/examples/audio/speaker_recognition_using_cnn/
+#code is from Keras example and a modified version of the same: https://keras.io/examples/audio/speaker_recognition_using_cnn/
 # Get the data from https://www.kaggle.com/kongaevans/speaker-recognition-dataset/download
 # and save it to the 'Downloads' folder in your HOME directory
 
